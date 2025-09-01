@@ -1,0 +1,27 @@
+📌 Overview
+
+This tool is a standalone executable (.exe) designed for Open Source Intelligence (OSINT) investigations. It runs on Windows and does not require additional compilation or complex setup.
+
+⸻
+
+🛠 Requirements
+	•	Operating System: Windows 10 or later (64-bit recommended)
+	•	Permissions: Administrator rights may be required if the tool needs elevated privileges
+	•	Dependencies:
+	•	Ensure that Microsoft Visual C++ Redistributable is installed (common requirement for .exe tools)
+	•	If the tool relies on Python, .NET, or Java, those runtimes must be pre-installed
+
+📂 Output
+	•	Results will typically appear in the console window.
+	•	If the tool supports output files, they may be saved in the same directory or a specified output path.
+
+❗ Troubleshooting
+	•	Tool doesn’t open → Ensure your antivirus hasn’t blocked it.
+	•	Missing DLL error → Install the required Visual C++ Redistributable.
+	•	Permission denied → Run Command Prompt as Administrator.
+	•	Unknown command/flag → Use --help to see valid options.
+
+▶️ How to Run
+	1.	Download the tool
+	•	Place the .exe file in a directory of your choice (e.g., C:\OSINT-Tool\)
+* once the SocialMedia0sint.exe is in your desired folder double click SocialMedia0sint.exe & give perms and follow instructions given
